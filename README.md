@@ -26,7 +26,7 @@ Actually, I'm certified (Professional and Expert) and work with Magento 2 for 4+
 - Magento Cloud
 
 #### 🚀 Current job
-Senior Magento Developer | Corra
+Senior Magento Developer | Corra  
 ![Corra](https://media.glassdoor.com/sql/716679/corra-technology-squarelogo-1493993966043.png)
 
 #### Find me on:
