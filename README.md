@@ -4,12 +4,9 @@ Passionate programmer, very good in solving complex issues. I work 5+ years with
 
 Actually, I'm certified (Professional and Expert) and work with Magento 2 for 4+ years, and already worked with payment gateways (E.g. Itau Pix - Brazilian payment method, this is a private solution) and also with a lot of other things like ERP integrations and some very specific custom modules, always following client requirements.
 
-<img src="Assets/icon.png" width="200">
-
-![Adobe Certified Professional - Adobe Commerce Developer](https://lh3.googleusercontent.com/pw/AM-JKLUHJKQmQBykDr3-1ftfDKFYkqpb8t1eUakMYderaPpj5ZzLblApkXG_T8ZM2-Xx_NgO8X1KD6K-ljnG_rQEjXVopyxikFd_TaacNnHx9mRR6QpfqNgahW3SeS5b9oBAfH4PIHiSEqgdKpFa89WSeD4_mw=w1172-h337-no#gh-light-mode-only)
-![Adobe Certified Expert - Adobe Commerce Developer](https://lh3.googleusercontent.com/pw/AM-JKLVbbs3d3yBKFYB3uQuVFphYrf9tqV6dZNmJewLPLsfORerpxSok7-vUXKCHn7-upVuNWKWt62AcgBGgeBDtWTev2mFueBM61qoyBPP4NTWXKRAxMz2UUU9u1USQtCTjKeHUYuUW_4eTYqbKTlhbRVi3_A=w924-h337-no#gh-light-mode-only)
-![Adobe Certified Professional - Adobe Commerce Developer](https://lh3.googleusercontent.com/pw/AM-JKLUlTAA72km04gtbfa0xTInaJKwEsyfoRBOfnhnVH45G5z2whBNP_WpfsHJ8p-2gQ72uMCBe4XmBzCY7bJz2SlK77OvF2nNNJwSLUhtUlRu3Et5W0RuRfl3Fz9xIDJz0VvCUiyzrlldYV85xarxU1jNFWA=w1172-h337-no#gh-dark-mode-only)
-![Adobe Certified Expert - Adobe Commerce Developer](https://lh3.googleusercontent.com/pw/AM-JKLWkc2qU7pwM_ueERhKu2QZ8_-JOv05D34_nTNXEtxPA7hIAlQ6qkDk2Lny_5TqzSZh5zDuvmlpCmCFy4dY1KnMmCVAhtvEtqMNoy3r0i0RslxPYieShbB6sYkNrQjQcVf1Gr9dtlZY2RvPUucHUsVvMZQ=w924-h337-no#gh-dark-mode-only)
+#### 🏆 Certifications
+![Adobe Certified Professional - Adobe Commerce Developer](./Adobe_Certified_Professional_Adobe_Commerce_Developer_badge.png#gh-light-mode-only)![Adobe Certified Professional - Adobe Commerce Developer](./Adobe_Certified_Professional_Adobe_Commerce_Developer_badge_white.png#gh-dark-mode-only)  
+![Adobe Certified Expert - Adobe Commerce Developer](./Adobe_Certified_Expert_Adobe_Commerce_Developer_Badge.png#gh-light-mode-only)![Adobe Certified Expert - Adobe Commerce Developer](./Adobe_Certified_Expert_Adobe_Commerce_Developer_Badge_white.png#gh-dark-mode-only)
 
 #### 🤖 Main Tech Stack
 - 🥇 Magento / Adobe Commerce
